@@ -28,7 +28,7 @@ Ensure you have the following installed:
 1. Clone the repository:
    
    git clone https://github.com/bishnudev35/collaborative-code-editor.git
-   cd collaborative-code-editor
+   && cd collaborative-code-editor
    
 2. Install dependencies:
 
