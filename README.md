@@ -42,17 +42,6 @@ npm run dev  # or yarn dev
 
 This will start the app on http://localhost:3000.
 
-### Project Structure
-
-├── components/   # Reusable UI components
-├── app/          # Next.js App Router pages (including editor and terminal)
-├── public/       # Static assets
-├── styles/       # Global styles
-├── utils/        # Utility functions
-├── server/       # Backend logic (if applicable)
-├── package.json  # Dependencies and scripts
-├── README.md     # Project documentation
-
 
 ## Contributing
 Feel free to open an issue or submit a pull request.
