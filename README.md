@@ -26,18 +26,18 @@ Ensure you have the following installed:
 
 ### Installation
 1. Clone the repository:
-   sh
+   
    git clone https://github.com/bishnudev35/collaborative-code-editor.git
    cd collaborative-code-editor
    
 2. Install dependencies:
-   sh
+
    npm install  # or yarn install
    
 
 ### Running the Project
 To start the Next.js development server, run:
-sh
+
 npm run dev  # or yarn dev
 
 This will start the app on http://localhost:3000.
